@@ -1,0 +1,10 @@
+D:\software\Microsoft\Project\menu\menu\bin\Debug\menu.exe.config
+D:\software\Microsoft\Project\menu\menu\bin\Debug\menu.exe
+D:\software\Microsoft\Project\menu\menu\bin\Debug\menu.pdb
+D:\software\Microsoft\Project\menu\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+D:\software\Microsoft\Project\menu\menu\obj\Debug\menu.Form1.resources
+D:\software\Microsoft\Project\menu\menu\obj\Debug\menu.Properties.Resources.resources
+D:\software\Microsoft\Project\menu\menu\obj\Debug\menu.csproj.GenerateResource.cache
+D:\software\Microsoft\Project\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+D:\software\Microsoft\Project\menu\menu\obj\Debug\menu.exe
+D:\software\Microsoft\Project\menu\menu\obj\Debug\menu.pdb
