@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TurnTableDemo</id>
+    <version>1.0.0</version>
+    <authors>TurnTableDemo</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\TurnTable-master\TurnTable-master\TurnTable-master\bin\Debug\net7.0-windows\TurnTableDemo.runtimeconfig.json" target="lib\net7.0-windows7.0\TurnTableDemo.runtimeconfig.json" />
+    <file src="E:\TurnTable-master\TurnTable-master\TurnTable-master\bin\Debug\net7.0-windows\TurnTableDemo.dll" target="lib\net7.0-windows7.0\TurnTableDemo.dll" />
+  </files>
+</package>

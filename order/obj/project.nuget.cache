@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5h/Ir7m5Q3wZuduhYNld5VnQUNx6WLgl2X+53/RR8yk9vdzrp8iKkmoLjpkRU5cMoeCvIEUQvewzLzucdzw1/g==",
+  "success": true,
+  "projectFilePath": "E:\\大学\\个人作业\\基础编程\\TurnTable-master\\TurnTable-master\\TurnTable-master\\TurnTableDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\。\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\。\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\。\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\。\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
